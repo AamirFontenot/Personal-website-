@@ -36,6 +36,27 @@ section {
     padding: 10px;
 }
 
+.flexcontainers {
+    display: flex;
+}
+
+.container4  {
+    width: calc(100% / 4 - 10px);
+    height: 100px;
+    margin: 5px;
+    border-radius: 15px;
+    border: black 5px;
+    text-align: center;
+}
+
+.pic1 {
+    background-image: url("../pictures/Simple PC.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
 .eerie-black {
     background-color: #212529;
 }
