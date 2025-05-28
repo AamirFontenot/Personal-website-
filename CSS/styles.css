@@ -51,6 +51,13 @@ section {
     text-align: center;
 }
 
+.box {
+    border-radius: 10px;
+    margin: 10px;
+    border: #212529 1px solid;
+    padding: 20px;
+}
+
 .pic1 {
     background-image: url("../pictures/Simple PC.png");
     background-size: cover;
